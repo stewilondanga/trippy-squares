@@ -75,7 +75,7 @@ body {
   animation-delay: 1s;
 }
 
-/*@keyframes rotate {
+@keyframes rotate {
   10% {
     transform: rotate(45deg);
   }
@@ -87,7 +87,7 @@ body {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
