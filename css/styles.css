@@ -21,11 +21,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-.board {
+/*.board {
   margin: auto;
   height: 300px;
   width: 300px;
