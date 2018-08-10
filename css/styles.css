@@ -70,12 +70,12 @@ body {
   animation-delay: 0.75s;
 }
 
-/*.square:nth-child(5n+5) {
+.square:nth-child(5n+5) {
   animation: rotate linear 5s infinite;
   animation-delay: 1s;
 }
 
-@keyframes rotate {
+/*@keyframes rotate {
   10% {
     transform: rotate(45deg);
   }
