@@ -40,12 +40,12 @@ body {
     0 -3px green, 0 -4px green, 0 -5px green, 1px 0 blue, 2px 0 blue, 3px 0 blue, 4px 0 blue, 5px 0 blue, -1px 0 yellow, -2px 0 yellow, -3px 0 yellow, -4px 0 yellow, -5px 0 yellow; */
 }
 
-/*.square:nth-child(even) {
+.square:nth-child(even) {
   background: black;
   animation-delay: 1s;
 }
 
-.square:nth-child(odd) {
+/*.square:nth-child(odd) {
   background: white;
   z-index: 1;
   position: relative;
