@@ -65,12 +65,12 @@ body {
   animation-delay: 0.5s;
 }
 
-/*.square:nth-child(5n+4) {
+.square:nth-child(5n+4) {
   animation: rotate linear 5s infinite;
   animation-delay: 0.75s;
 }
 
-.square:nth-child(5n+5) {
+/*.square:nth-child(5n+5) {
   animation: rotate linear 5s infinite;
   animation-delay: 1s;
 }
