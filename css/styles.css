@@ -51,11 +51,11 @@ body {
   position: relative;
 }
 
-/*.square:nth-child(5n+1) {
+.square:nth-child(5n+1) {
   animation: rotate linear 5s infinite;
 }
 
-.square:nth-child(5n+2) {
+/*.square:nth-child(5n+2) {
   animation: rotate linear 5s infinite;
   animation-delay: 0.25s;
 }
