@@ -1,11 +1,16 @@
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
+body {
+  height: 100vh;
+  display: grid;
+  background: #000;
+}
+
+/*
 .my_social {
   position: absolute;
   top: 25px;
@@ -19,18 +24,6 @@
 
 .my_social a img {
   height: 1.5em;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  height: 100vh;
-  display: grid;
-  background: #000;
 }
 
 .board {
